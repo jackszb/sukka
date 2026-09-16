@@ -10,44 +10,43 @@ import ipaddress
 # -----------------------------
 
 DIRECT_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/apple_cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_cn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/microsoft_cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/domestic.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/direct.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/lan.json",
-    "https://raw.githubusercontent.com/jackszb/ip-sukka/main/direct_custom_rules.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/apple_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_cn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/microsoft_cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/domestic.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/direct.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/lan.json",
 ]
 
 PROXY_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/cdn.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/apple_intelligence.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/microsoft.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/global.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/ai.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/stream.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/telegram.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/ai.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/stream.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/telegram.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/cdn.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_intelligence.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/microsoft.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/global.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/ai.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/stream.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/telegram.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/ai.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/stream.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/telegram.json",
 ]
 
 REJECT_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/reject.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/reject_extra.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/domainset/reject_phishing.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-drop.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/reject-no-drop.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/non_ip/sogouinput.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/reject.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/reject.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/reject_extra.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/reject_phishing.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-drop.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/reject-no-drop.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/sogouinput.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/reject.json",
 ]
 
 IP_URLS = [
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/china_ip.json",
-    "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/sing-box/ip/lan.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/china_ip.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/lan.json",
 ]
 
 # 允许输出的字段(源数据里只会出现 ip_cidr,不存在单独的 ip 字段)
