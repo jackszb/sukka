@@ -46,6 +46,7 @@ REJECT_URLS = [
 
 IP_URLS = [
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/china_ip.json",
+    "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/china_ip_ipv6.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/ip/lan.json",
 ]
 
