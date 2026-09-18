@@ -705,6 +705,7 @@ DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
 DOMAIN,cdn.evgnet.com
+DOMAIN,cdn.eye-able.com
 DOMAIN,cdn.f5.com
 DOMAIN,cdn.faire.com
 DOMAIN,cdn.fastcomments.com
@@ -5923,7 +5924,6 @@ DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,transcend-cdn.com
 DOMAIN-SUFFIX,travis-ci.com
 DOMAIN-SUFFIX,travis-ci.org
-DOMAIN-SUFFIX,tripcdn.com
 DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,trustless-gateway.link
 DOMAIN-SUFFIX,trustpilot.com
