@@ -100,9 +100,6 @@ DOMAIN,app.roboflow.com
 DOMAIN,app.shop.pe
 DOMAIN,app.viral-loops.com
 DOMAIN,appassets.mvtdev.com
-DOMAIN,apple-relay.apple.com
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apps-static.route4me.com
 DOMAIN,apps.bazaarvoice.com
 DOMAIN,apps.paidy.com
@@ -1265,7 +1262,6 @@ DOMAIN,cors-proxy.htmldriven.com
 DOMAIN,cover.comicbz.com
 DOMAIN,cover.yymanhua.com
 DOMAIN,covers.openlibrary.org
-DOMAIN,cp4.cloudflare.com
 DOMAIN,cpp-content.bhn.cards
 DOMAIN,cpwebassets.codepen.io
 DOMAIN,craftassets.unraid.net
@@ -1325,6 +1321,7 @@ DOMAIN,db.onlinewebfonts.com
 DOMAIN,dc-cdn.cdw.com
 DOMAIN,dd.blackhawknetwork.com
 DOMAIN,dd.dexscreener.com
+DOMAIN,dejavu.apple.com
 DOMAIN,delivery.twentythree.com
 DOMAIN,demo.unified-streaming.com
 DOMAIN,demotiles.maplibre.org
@@ -1342,6 +1339,7 @@ DOMAIN,devicons.railway.com
 DOMAIN,devnull.perfops.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dh-site.b-cdn.net
+DOMAIN,diatryma.apple.com
 DOMAIN,digitalhub.fifa.com
 DOMAIN,dims.apnews.com
 DOMAIN,disco-static.productessentials.app
@@ -1582,10 +1580,12 @@ DOMAIN,graph.facebook.com
 DOMAIN,gravatar.cat.net
 DOMAIN,gravatar.tapglb.com
 DOMAIN,groundnews.b-cdn.net
-DOMAIN,gspe1-ssl.ls.apple.com
 DOMAIN,gstatic.com
 DOMAIN,gstatic.olympics.com
 DOMAIN,gtranslate.io
+DOMAIN,guzzoni-apple-com.v.aaplimg.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,guzzoni.smoot.apple.com
 DOMAIN,hamifans.emome.net
 DOMAIN,hawk.tomsguide.com
 DOMAIN,hawky.pcgamer.com
@@ -3176,6 +3176,8 @@ DOMAIN,styleguide-assets.shannons.com.au
 DOMAIN,sub.creamycake.org
 DOMAIN,subscriptions.news.com.au
 DOMAIN,support.content.office.net
+DOMAIN,swallow-apple-com.v.aaplimg.com
+DOMAIN,swallow.apple.com
 DOMAIN,swan.prod.merch.vpsvc.com
 DOMAIN,sync.getpublica.com
 DOMAIN,t.betterstack.com
@@ -3676,6 +3678,11 @@ DOMAIN-SUFFIX,app.khoros.com
 DOMAIN-SUFFIX,app.render.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,apperoni.top
+DOMAIN-SUFFIX,apple-ai.com
+DOMAIN-SUFFIX,apple-cloudcompute.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,applicationinsights.azure.cn
 DOMAIN-SUFFIX,applicationinsights.azure.com
@@ -4054,6 +4061,7 @@ DOMAIN-SUFFIX,corsproxy.io
 DOMAIN-SUFFIX,cosplay-jav.com
 DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,coveralls.io
+DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,cr
 DOMAIN-SUFFIX,crash-reports.browser.yandex.net
@@ -4416,6 +4424,7 @@ DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,genai.apple.com
 DOMAIN-SUFFIX,generated.photos
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
@@ -4505,6 +4514,7 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,ground.news
 DOMAIN-SUFFIX,grouponcdn.com
 DOMAIN-SUFFIX,gs
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gsuus.com
 DOMAIN-SUFFIX,gszyi.com
@@ -5620,6 +5630,7 @@ DOMAIN-SUFFIX,simgbb.com
 DOMAIN-SUFFIX,similarcdn.com
 DOMAIN-SUFFIX,simplecastcdn.com
 DOMAIN-SUFFIX,simpleflyingimages.com
+DOMAIN-SUFFIX,siri.apple.com
 DOMAIN-SUFFIX,sirv.com
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
 DOMAIN-SUFFIX,sitescdn.net
@@ -5648,6 +5659,7 @@ DOMAIN-SUFFIX,smashingmagazine.com
 DOMAIN-SUFFIX,smassets.net
 DOMAIN-SUFFIX,smilecdn.co
 DOMAIN-SUFFIX,smmallcdn.net
+DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,smushcdn.com
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,snap.com
@@ -6258,6 +6270,7 @@ DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
+DOMAIN-KEYWORD,apple-ml
 DOMAIN-KEYWORD,assets.trustpilot.net
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,bbcfmt
