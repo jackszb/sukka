@@ -23,7 +23,7 @@ DIRECT_URLS = [
 PROXY_URLS = [
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/domainset/cdn.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/cdn.json",
-    "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/apple_intelligence.json",
+    "https://raw.githubusercontent.com/jackszb/sukka/main/proxy_custom_rules.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/microsoft.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/global.json",
     "https://raw.githubusercontent.com/jackszb/sukka-json/main/non_ip/ai.json",
