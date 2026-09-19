@@ -2,6 +2,17 @@
   "version": 5,
   "rules": [
     {
+      "domain_keyword": [
+        "cnki.net",
+        "deepdyve",
+        "els-cdn",
+        "elsevier",
+        "pkulaw",
+        "readcube",
+        "sciencedirect",
+        "wanfangdata",
+        "westlawchina"
+      ],
       "domain_suffix": [
         "10.in-addr.arpa",
         "10010.com",
@@ -1293,17 +1304,6 @@
         "www.intel.cn",
         "www.layuicdn.com",
         "www.viayoo.com"
-      ],
-      "domain_keyword": [
-        "cnki.net",
-        "deepdyve",
-        "els-cdn",
-        "elsevier",
-        "pkulaw",
-        "readcube",
-        "sciencedirect",
-        "wanfangdata",
-        "westlawchina"
       ]
     }
   ]
