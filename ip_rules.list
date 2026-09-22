@@ -629,6 +629,7 @@ IP-CIDR,61.237.0.0/16,no-resolve
 IP-CIDR,61.240.0.0/14,no-resolve
 IP-CIDR,62.234.0.0/16,no-resolve
 IP-CIDR,63.140.0.0/24,no-resolve
+IP-CIDR,64.96.5.0/24,no-resolve
 IP-CIDR,64.188.38.0/23,no-resolve
 IP-CIDR,64.188.40.0/22,no-resolve
 IP-CIDR,64.188.44.0/24,no-resolve
@@ -3252,6 +3253,7 @@ IP-CIDR,203.205.64.0/20,no-resolve
 IP-CIDR,203.205.80.0/21,no-resolve
 IP-CIDR,203.205.88.0/22,no-resolve
 IP-CIDR,203.205.92.0/23,no-resolve
+IP-CIDR,203.205.94.0/24,no-resolve
 IP-CIDR,203.207.64.0/19,no-resolve
 IP-CIDR,203.207.96.0/21,no-resolve
 IP-CIDR,203.207.104.0/22,no-resolve
