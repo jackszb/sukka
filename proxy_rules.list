@@ -1352,6 +1352,7 @@ DOMAIN,divhunt.b-cdn.net
 DOMAIN,dl.airdroid.com
 DOMAIN,dlassets-ssl.xboxlive.com
 DOMAIN,dlstats.izzyondroid.org
+DOMAIN,dma.canyon.com
 DOMAIN,dmm-extension.com
 DOMAIN,dmqdd6hw24ucf.cloudfront.net
 DOMAIN,do.featurebase.app
@@ -2206,6 +2207,7 @@ DOMAIN,media.infosec.exchange
 DOMAIN,media.inhumanity.com
 DOMAIN,media.invisioncic.com
 DOMAIN,media.istockphoto.com
+DOMAIN,media.karousell.com
 DOMAIN,media.kit.com
 DOMAIN,media.lantern.io
 DOMAIN,media.letsdeel.com
@@ -4771,7 +4773,6 @@ DOMAIN-SUFFIX,ipfs.busy.org
 DOMAIN-SUFFIX,ipfs.cyou
 DOMAIN-SUFFIX,ipfs.decoo.io
 DOMAIN-SUFFIX,ipfs.denarius.io
-DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN-SUFFIX,ipfs.eternum.io
 DOMAIN-SUFFIX,ipfs.eth.aragon.network
 DOMAIN-SUFFIX,ipfs.filebase.io
