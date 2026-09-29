@@ -6970,7 +6970,6 @@ IP-CIDR,2408:4004::/30,no-resolve
 IP-CIDR,2408:4008::/29,no-resolve
 IP-CIDR,2408:4010::/30,no-resolve
 IP-CIDR,2408:4014::/31,no-resolve
-IP-CIDR,2408:4016:1::/48,no-resolve
 IP-CIDR,2408:4016:2::/47,no-resolve
 IP-CIDR,2408:4016:4::/46,no-resolve
 IP-CIDR,2408:4016:8::/45,no-resolve
