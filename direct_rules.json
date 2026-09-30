@@ -47,6 +47,7 @@
         "router.asus.com",
         "setmeup.arubanetworks.com",
         "statics.teams.cdn.office.net",
+        "time.xtracloud.net",
         "tx-safety-video.acfun.cn",
         "unifi",
         "upos-sz-estgoss.bilivideo.com",
@@ -59,17 +60,6 @@
         "www.intel.cn",
         "www.layuicdn.com",
         "www.viayoo.com"
-      ],
-      "domain_keyword": [
-        "cnki.net",
-        "deepdyve",
-        "els-cdn",
-        "elsevier",
-        "pkulaw",
-        "readcube",
-        "sciencedirect",
-        "wanfangdata",
-        "westlawchina"
       ],
       "domain_suffix": [
         "10.in-addr.arpa",
@@ -1305,6 +1295,17 @@
         "zuimeitianqi.com",
         "zuoyebang.com",
         "zybang.com"
+      ],
+      "domain_keyword": [
+        "cnki.net",
+        "deepdyve",
+        "els-cdn",
+        "elsevier",
+        "pkulaw",
+        "readcube",
+        "sciencedirect",
+        "wanfangdata",
+        "westlawchina"
       ]
     }
   ]
