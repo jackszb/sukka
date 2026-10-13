@@ -2017,6 +2017,7 @@ DOMAIN,imgsrv.crunchyroll.com
 DOMAIN,imgssl.constantcontact.com
 DOMAIN,import-cdn.default.com
 DOMAIN,ims.windy.com
+DOMAIN,inference.codeium.com
 DOMAIN,info.cloudflare.com
 DOMAIN,info.knak.com
 DOMAIN,instafeed.nfcube.com
@@ -2708,6 +2709,8 @@ DOMAIN,sentry.ainopara.com
 DOMAIN,seo-wp.airdroid.com
 DOMAIN,sequoia.cdn-apple.com
 DOMAIN,server.arcgisonline.com
+DOMAIN,server.codeium.com
+DOMAIN,server.self-serve.windsurf.com
 DOMAIN,service-icons.zeabur.com
 DOMAIN,services.linkfire.com
 DOMAIN,sessions-bugsnag.docker.com
@@ -3271,6 +3274,7 @@ DOMAIN,tiles.maps.eox.at
 DOMAIN,tiles.maps.opensearch.org
 DOMAIN,tiles.mapterhorn.com
 DOMAIN,tiles.meteoguard.dtn.com
+DOMAIN,tiles.onemap.gov.sg
 DOMAIN,tiles.openfreemap.org
 DOMAIN,tiles.openrailwaymap.org
 DOMAIN,tiles.openseamap.org
