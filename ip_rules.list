@@ -627,9 +627,6 @@ IP-CIDR,61.240.0.0/14,no-resolve
 IP-CIDR,62.234.0.0/16,no-resolve
 IP-CIDR,63.140.0.0/24,no-resolve
 IP-CIDR,64.96.5.0/24,no-resolve
-IP-CIDR,64.188.38.0/23,no-resolve
-IP-CIDR,64.188.40.0/22,no-resolve
-IP-CIDR,64.188.44.0/24,no-resolve
 IP-CIDR,68.79.0.0/18,no-resolve
 IP-CIDR,69.230.192.0/18,no-resolve
 IP-CIDR,69.231.128.0/18,no-resolve
@@ -3279,6 +3276,7 @@ IP-CIDR,203.223.19.0/24,no-resolve
 IP-CIDR,203.223.20.0/24,no-resolve
 IP-CIDR,204.77.130.0/24,no-resolve
 IP-CIDR,205.198.19.0/24,no-resolve
+IP-CIDR,206.109.71.0/24,no-resolve
 IP-CIDR,207.57.167.0/24,no-resolve
 IP-CIDR,207.57.168.0/24,no-resolve
 IP-CIDR,207.57.182.0/24,no-resolve
@@ -3786,7 +3784,7 @@ IP-CIDR,221.130.0.0/15,no-resolve
 IP-CIDR,221.133.225.0/24,no-resolve
 IP-CIDR,221.133.226.0/24,no-resolve
 IP-CIDR,221.133.228.0/22,no-resolve
-IP-CIDR,221.133.232.0/23,no-resolve
+IP-CIDR,221.133.232.0/24,no-resolve
 IP-CIDR,221.133.235.0/24,no-resolve
 IP-CIDR,221.133.244.0/23,no-resolve
 IP-CIDR,221.137.0.0/16,no-resolve
@@ -6302,7 +6300,7 @@ IP-CIDR,2406:840:e900::/40,no-resolve
 IP-CIDR,2406:840:ea00::/40,no-resolve
 IP-CIDR,2406:840:eb06::/48,no-resolve
 IP-CIDR,2406:840:eb09::/48,no-resolve
-IP-CIDR,2406:840:eb0a::/47,no-resolve
+IP-CIDR,2406:840:eb0a::/48,no-resolve
 IP-CIDR,2406:840:eb0c::/47,no-resolve
 IP-CIDR,2406:840:eb0e::/48,no-resolve
 IP-CIDR,2406:840:eb10::/44,no-resolve
@@ -6522,7 +6520,6 @@ IP-CIDR,2406:840:fe26::/48,no-resolve
 IP-CIDR,2406:840:fe28::/45,no-resolve
 IP-CIDR,2406:840:fe30::/44,no-resolve
 IP-CIDR,2406:840:fe40::/44,no-resolve
-IP-CIDR,2406:840:fe51::/48,no-resolve
 IP-CIDR,2406:840:fe52::/47,no-resolve
 IP-CIDR,2406:840:fe54::/46,no-resolve
 IP-CIDR,2406:840:fe58::/45,no-resolve
@@ -6982,6 +6979,7 @@ IP-CIDR,2408:4004::/30,no-resolve
 IP-CIDR,2408:4008::/29,no-resolve
 IP-CIDR,2408:4010::/30,no-resolve
 IP-CIDR,2408:4014::/31,no-resolve
+IP-CIDR,2408:4016:1::/48,no-resolve
 IP-CIDR,2408:4016:2::/47,no-resolve
 IP-CIDR,2408:4016:4::/46,no-resolve
 IP-CIDR,2408:4016:8::/45,no-resolve
@@ -7264,7 +7262,9 @@ IP-CIDR,2a0a:d685:220::/43,no-resolve
 IP-CIDR,2a0a:d685:240::/42,no-resolve
 IP-CIDR,2a0a:d685:280::/41,no-resolve
 IP-CIDR,2a0a:d685:400::/40,no-resolve
-IP-CIDR,2a0a:d685:500::/45,no-resolve
+IP-CIDR,2a0a:d685:500::/46,no-resolve
+IP-CIDR,2a0a:d685:504::/48,no-resolve
+IP-CIDR,2a0a:d685:506::/47,no-resolve
 IP-CIDR,2a0a:d685:508::/48,no-resolve
 IP-CIDR,2a0a:d685:50a::/47,no-resolve
 IP-CIDR,2a0a:d685:50c::/46,no-resolve
