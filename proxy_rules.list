@@ -25,6 +25,7 @@ DOMAIN,agi.armorgames.com
 DOMAIN,ah-cdn.merge.dev
 DOMAIN,ahrefscomscreenshot-3b70.kxcdn.com
 DOMAIN,ai.google.dev
+DOMAIN,aicode.googleapis.com
 DOMAIN,aida.googleapis.com
 DOMAIN,aimg.fc2.com
 DOMAIN,aisandbox-pa.googleapis.com
@@ -1189,6 +1190,7 @@ DOMAIN,clips-media-assets2.twitch.tv
 DOMAIN,clips.kick.com
 DOMAIN,cloud.redhat.com
 DOMAIN,cloud.typenetwork.com
+DOMAIN,cloud.zed.dev
 DOMAIN,cloudflare.tv
 DOMAIN,cloudfront.barilliance.com
 DOMAIN,cloudinary-res.cloudinary.com
@@ -1313,6 +1315,7 @@ DOMAIN,d349g9zuie06uo.cloudfront.net
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN,d4.alternativeto.net
 DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN,dam.freshworks.com
 DOMAIN,damassets.autodesk.net
 DOMAIN,dashasiafox.akamaized.net
@@ -2196,6 +2199,7 @@ DOMAIN,media.convertkit.com
 DOMAIN,media.crazyshit.com
 DOMAIN,media.currys.biz
 DOMAIN,media.daily.dev
+DOMAIN,media.datacamp.com
 DOMAIN,media.datacenterdynamics.com
 DOMAIN,media.dev.to
 DOMAIN,media.discordapp.net
@@ -3005,6 +3009,7 @@ DOMAIN,static.javhd.com
 DOMAIN,static.jsbin.com
 DOMAIN,static.jup.ag
 DOMAIN,static.k2s.cc
+DOMAIN,static.karousell.com
 DOMAIN,static.killedbygoogle.com
 DOMAIN,static.klaviyo.com
 DOMAIN,static.kobo.com
