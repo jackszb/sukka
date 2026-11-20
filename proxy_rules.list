@@ -168,6 +168,7 @@ DOMAIN,assets.cgtrader.com
 DOMAIN,assets.change.org
 DOMAIN,assets.chaos.social
 DOMAIN,assets.churnkey.co
+DOMAIN,assets.claudeusercontent.com
 DOMAIN,assets.clever-cloud.com
 DOMAIN,assets.clibo.tw
 DOMAIN,assets.clickfunnels.com
@@ -428,6 +429,7 @@ DOMAIN,brandwidgets.outtra.com
 DOMAIN,brew.sh
 DOMAIN,brick.a.ssl.fastly.net
 DOMAIN,brick.freetls.fastly.net
+DOMAIN,bridge.claudeusercontent.com
 DOMAIN,bst.icons8.com
 DOMAIN,bucket.noy.asia
 DOMAIN,bucket1.notaku.so
@@ -1182,6 +1184,7 @@ DOMAIN,cimg.cnyes.cool
 DOMAIN,circle-flags.zeljko.me
 DOMAIN,clara.iwara.tv
 DOMAIN,claritystatic.azureedge.net
+DOMAIN,claude.site
 DOMAIN,clickup.marketlinc.com
 DOMAIN,client-log-forwarder.1password.com
 DOMAIN,clientsdk.launchdarkly.com
@@ -2914,6 +2917,7 @@ DOMAIN,static.chaika.moe
 DOMAIN,static.change.org
 DOMAIN,static.chessarena.com
 DOMAIN,static.chrome-stats.com
+DOMAIN,static.claudeusercontent.com
 DOMAIN,static.clips4sale.com
 DOMAIN,static.cloud.coveo.com
 DOMAIN,static.cloudcachetci.com
@@ -3372,6 +3376,7 @@ DOMAIN,unsubscribe-imgs.leavemealone.com
 DOMAIN,uos-support-files.svc.ui.com
 DOMAIN,updates.signal.org
 DOMAIN,updates2.signal.org
+DOMAIN,upload.claudeusercontent.com
 DOMAIN,upload.movim.eu
 DOMAIN,upload.teftera.com
 DOMAIN,upload.wikimedia.org
@@ -4026,7 +4031,6 @@ DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,cldup.com
 DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
 DOMAIN-SUFFIX,clipdrop.co
@@ -4415,6 +4419,7 @@ DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,fr
+DOMAIN-SUFFIX,frame.claudeusercontent.com
 DOMAIN-SUFFIX,framer.com
 DOMAIN-SUFFIX,framercdn.com
 DOMAIN-SUFFIX,framerstatic.com
